@@ -24,7 +24,7 @@ def distance(x,y):
 
 def eps_neighborhood(x,y,eps):
 	return distance(x,y) < eps
-#---------------------------------------------
+#-------------------------------------------------
 #this method show epsilon space
 
 def region_query(X,p,eps):
